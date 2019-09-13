@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/journey.dir/src/main.cpp.o  -o journey /usr/lib/x86_64-linux-gnu/libpython2.7.so 
